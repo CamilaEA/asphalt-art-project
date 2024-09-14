@@ -18,18 +18,20 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+![Alt Text](https://drive.google.com/file/d/1P5CcrKC0GGBgPPvbMhtuNY9a1PRyihZu/view?usp=sharing)
+
+! [Alt Text] (https://drive.google.com/file/d/1NTdDY0yvMxAE8gal8rslXaJmucRSOVww/view?usp=sharing)
 
 ## Reflection
 
 1. Describe your project.
 
-   - Write your response here...
+   -  The purpose of this project was to create a mural of something significant to you. The way to create this mural was by using different methods in classes that could be used to draw different parts of the painting. Inside the methods there could have been ways to instert sequencing, selection, and iteration statements. 
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - From my project, something that I am most proud of is how everything came together and the methods where able to be combined to create the mural painting. I am also proud of how I eventually was able to see patterns in how to write the methods so that it was easier to write.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - I think that if I had more time and patience I would have found a different way to create the methods. This could've made it easier and I would have found a more effient way to create the mural painting.
